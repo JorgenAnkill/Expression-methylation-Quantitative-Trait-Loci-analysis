@@ -1,6 +1,6 @@
 # Epigenetic alterations at distal enhancers are linked to proliferation in human breast cancer
 
-Jørgen Ankill, Miriam Ragle Aure, Sunniva Bjørklund, Severin Langberg, OSBREAC, Xavier Tekpli, Valeria Vitelli, Vessela N. Kristensen, Thomas Fleischer.
+*Jørgen Ankill, Miriam Ragle Aure, Sunniva Bjørklund, Severin Langberg, OSBREAC, Xavier Tekpli, Valeria Vitelli, Vessela N. Kristensen, Thomas Fleischer*
 
 Contact email adress: jorgen.ankill2@rr-research.no
 
@@ -8,7 +8,7 @@ This repository contains a simplified script that may be used for genom-wide exp
 
 In the example presented DNA methylation-, expression- and clinical data is first obtained from the XenaBrowser using the UCSCXenaTools R-package[3] version 1.4.0. A total of 100 random primary breast tumor samples with matching DNA methylation- and expression data was extracted from the The Cancer Genome Atlas breast cancer (TCGA-BRCA) dataset[4].
 
-References:
+**References:**
 1. Pedregosa, F. et al. Scikit-learn: Machine Learningin Python. J. Mach. Learn. Res. 12, 2825-2830 (2011).
 2. Cheng, Y. & Church, G.M. Biclustering of expression data. Proc Int Conf Intell Syst Mol Biol 8, 93-103 (2000).
 3. Goldman, Mary, et al. "The UCSC Xena Platform for cancer genomics data visualization and interpretation." BioRxiv (2019): 326470.
