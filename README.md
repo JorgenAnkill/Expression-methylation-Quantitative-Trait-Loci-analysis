@@ -3,7 +3,7 @@
 
 *Jørgen Ankill, Miriam Ragle Aure, Sunniva Bjørklund, Severin Langberg, OSBREAC, Xavier Tekpli, Valeria Vitelli, Vessela N. Kristensen, Thomas Fleischer*
 
-Contact email adress: jorgen.ankill2@rr-research.no 
+Contact: jorgen.ankill2@rr-research.no 
 #
 **Descrption:**
 
