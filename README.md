@@ -5,7 +5,7 @@
 
 Contact: jorgen.ankill2@rr-research.no 
 #
-**Descrption:**
+**Description:**
 
 This repository contains a simplified script that may be used for genom-wide expression-methylation Quantitative Trait Loci analysis (emQTL), that is related to the manuscript above, and example data for running the code. In the first part of the code, the DNA methylation levels of all CpGs with an interquartile range more than 0.1 and genes with non-zero variance are correlated by Pearson correlation. The inverse correlation coefficient values (correlation coefficient*-1) are then biclustered by spectral co-clustering[1]. The Python code necessary for the biclustering is included in the Spectral co-clustering folder. For each run, a average mean square residue (MSR) score[2] is imputed to provide an estimate of the number of biclusters to select for the spectral co-clustering algorithm. The output from the code is a heatmap marked with the biclusters identifed and files showing the list of CpGs and genes in each bicluster.
 
